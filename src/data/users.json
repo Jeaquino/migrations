@@ -1,0 +1,29 @@
+[
+   {
+      "name": "Facundo Tomas",
+      "surname": "Rodriguez",
+      "email": "facutomasr@gmail.com",
+      "phone": 1122334455,
+      "rol_id": 1,
+      "password": "123456",
+      "image": "HUESO-1705735366835-327121706.png"
+   },
+   {
+      "name": "Julian Ed",
+      "surname": "Aquino",
+      "email": "julian.eduardo.aquino@gmail.com",
+      "phone": 1150973344,
+      "password": "123456",
+      "rol_id": 2,
+      "image": "HUESO-1705735366835-327121706.png"
+   },
+   {
+      "name": "Paola",
+      "surname": "Moriconi",
+      "email": "paomori@gmail.com",
+      "phone": 1150973344,
+      "password": "123456",
+      "rol_id": 1,
+      "image": "HUESO-1705735366835-327121706.png"
+   }
+]

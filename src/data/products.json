@@ -1,0 +1,72 @@
+[
+   {
+      "name": "Camiseta Boca Juniors",
+      "price": 45000,
+      "discount": 0,
+      "description": "Lleva a tu equipo a todos lados con la Camiseta adidas Boca Juniors .",
+      "image": "camisetaBoca.png",
+      "category_id": 1
+   },
+   {
+      "name": "Camiseta Boca Juniors  Mujer",
+      "price": 45000,
+      "discount": 5,
+      "description": "Lleva a tu equipo a todos lados con la Camiseta adidas Boca Juniors .",
+      "image": "camisetaBocaMujer.png",
+      "category_id": 2
+   },
+   {
+      "id": 3,
+      "name": "Short Reebok Hombre",
+      "price": 25000,
+      "discount": 15,
+      "description": "Diseñados para permitir un amplio movimiento. Para esos deportes que requieren mayor libertad movimiento.",
+      "image": "shortHombreNegro.jpeg",
+      "category_id": 1
+   },
+   {
+      "id": 4,
+      "name": "Short deportivo de mujer  ",
+      "price": 25000,
+      "discount": 25,
+      "description": "Diseñados para permitir un amplio movimiento. Para esos deportes que requieren mayor libertad movimiento.",
+      "image": "shortMujerRosa.jpg",
+      "category_id": 2
+   },
+   {
+      "id": 5,
+      "name": "Conjunto Topper Basico New Hombre",
+      "price": 30000,
+      "discount": 0,
+      "description": "Los conjuntos están diseñados para brindar comodidad, libertad, seguridad durante el ejercicio realizado",
+      "image": "conjuntoDeportivoHombre.jpg",
+      "category_id": 1
+   },
+   {
+      "id": 6,
+      "name": "Conjunto deportivo UA Tricot para mujer",
+      "price": 30000,
+      "discount": 0,
+      "description": "Los conjuntos están diseñados para brindar comodidad, libertad , seguridad durante el ejercicio realizado",
+      "image": "conjuntoDeportivoMujer.jpg",
+      "category_id": 2
+   },
+   {
+      "id": 7,
+      "name": "Remera de Entrenamiento TechFit",
+      "price": 25000,
+      "discount": 25,
+      "description": "Fabricado con tejidos transpirables que absorben la humedad para mantener el cuerpo secado.",
+      "image": "remeraNegraHombre.jpeg",
+      "category_id": 1
+   },
+   {
+      "id": 8,
+      "name": "Remera Running Puma Run Favorite Ss Mujer",
+      "price": 30000,
+      "discount": 50,
+      "description": "Fabricado con tejidos transpirables que absorben la humedad para mantener el cuerpo secado.",
+      "image": "remeraMujer.jpg",
+      "category_id": 2
+   }
+]
