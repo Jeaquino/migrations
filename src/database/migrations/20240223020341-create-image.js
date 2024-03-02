@@ -12,6 +12,7 @@ module.exports = {
       name: {
         type: Sequelize.STRING,
         allowNull: false,
+        defaultValue: 'default.jpg' //Consulta valores default
       },
       product_id: {
         type: Sequelize.INTEGER,
