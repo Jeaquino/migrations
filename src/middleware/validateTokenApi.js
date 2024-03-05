@@ -1,7 +1,8 @@
 require('dotenv').config();
 
 const validateToken = (req,res,next) => {
-    console.log('req:', req);
+    console.log('header:', req.headers.authorization);
+    console.log('token: ', process.env.TOKEN_API);
     if( req.headers.authorization == process.env.TOKEN_API){
         next()
     }else{
